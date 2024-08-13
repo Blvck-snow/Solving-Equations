@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1722262174 source:c:\users\elie lavoisier\documents\nouveau dossier\my programs\gaussnaiv\naivgauss.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+
+1722245066 source:c:\users\elie lavoisier\documents\nouveau dossier\my programs\gaussnaiv\use.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	"naivgauss.h"
+
+1722262171 c:\users\elie lavoisier\documents\nouveau dossier\my programs\gaussnaiv\naivgauss.h
+
+1721825855 source:c:\users\elie lavoisier\documents\nouveau dossier\my programs\gaussnaiv\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1722119979 source:c:\users\elie lavoisier\documents\nouveau dossier\my programs\gaussnaiv\testnaiv.c
+
+1722247520 source:c:\users\elie lavoisier\documents\nouveau dossier\my programs\gaussnaiv\checkpivoting.c
+
+1722247529 source:c:\users\elie lavoisier\documents\nouveau dossier\my programs\gaussnaiv\pivoting.c
+
+1722261804 source:c:\users\elie lavoisier\documents\nouveau dossier\my programs\gaussnaiv\tes.c
+
